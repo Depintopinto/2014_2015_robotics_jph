@@ -1,9 +1,9 @@
 /**
  * @file    obstacle_avoidance.cpp
- * @brief   Controller for a robot to avoid obstacles.
+ * @brief   Controller that void the obstacle
  *
- * @author  Javier de Pinto Hernandez <100284151@alumnos.uc3m.es>
- * @date    2014-11
+ * @author  Samuel Hernandez <100284298@alumnos.uc3m.es>
+ * @date    11-11-2014
  */
 #include "MyRobot.h"
 
